@@ -1,6 +1,7 @@
 # Mobile-Store-MERN-APP
 
-![Mobile Store Logo](link_to_logo_image.png)
+![Mobile Store Logo](![téléchargement](https://github.com/Bahri-Adem/Mobile-Store-MERN-APP/assets/103949052/a61550a2-535b-4c12-8a42-d121b5b5cd85)
+)
 
 Welcome to the **Mobile Store MERN APP**, an ecommerce website built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to browse, search, and purchase mobile phones and accessories. Additionally, it provides admin pages to manage products, categories, and user orders.
 
