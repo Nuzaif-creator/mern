@@ -1,6 +1,10 @@
 # Mobile-Store-MERN-APP
 
-https://www.youtube.com/watch?v=h6w_ts9vybY&list=PLuHGmgpyHfRzhGkSUfY0vpi67X64g0mXB&index=29&ab_channel=TechinfoYT
+
+
+https://github.com/Bahri-Adem/Mobile-Store-MERN-APP/assets/103949052/9b288ebb-d97d-498b-8652-39c2a2aab5b2
+
+
 
 Welcome to the **Mobile Store MERN APP**, an ecommerce website built using the MERN stack (MongoDB, Express, React, Node.js). This application allows users to browse, search, and purchase mobile phones and accessories. Additionally, it provides admin pages to manage products, categories, and user orders.
 
