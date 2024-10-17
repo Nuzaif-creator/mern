@@ -3,8 +3,8 @@ This is a MERN stack application built using MongoDB, Express.js, React.js, and 
 
 ## Prerequisites
 Make sure you have the following installed on your machine:
-Node.js
-MongoDB
+Node.js, 
+MongoDB, 
 NPM
 
 ## Getting Started
